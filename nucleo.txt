@@ -1,1 +1,3 @@
-SINGULA RIDADES
+<<<<<<< HEAD
+=======
+>>>>>>> entropia
